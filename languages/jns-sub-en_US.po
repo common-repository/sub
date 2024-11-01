@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.7\n"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Donate"
+msgstr "Donate"
+
+msgid "Make a donation"
+msgstr "Make a donation"
+
+msgid "Here below are your collected subscribers. You can edit them as you want, but remember to separate them with , (comma) and be careful not to delete them all. It can be a good idea to copy them sometimes to a local txt-file on your computer."
+msgstr "Here below are your collected subscribers. You can edit them as you want, but remember to separate them with , (comma) and be careful not to delete them all. It can be a good idea to copy them sometimes to a local txt-file on your computer."
+
+msgid "No subscribers yet. Why don't you start by adding yourself to get that number up?"
+msgstr "No subscribers yet. Why don't you start by adding yourself to get that number up?"
+
+msgid "subscriber"
+msgstr "subscriber"
+
+msgid "subscribers"
+msgstr "subscribers"
+
+msgid "Email addresses separated with comma (,):"
+msgstr "Email addresses separated with comma (,):"
+
+msgid "Update subscriber list"
+msgstr "Update subscriber list"
+
+msgid "Updated"
+msgstr "Updated"
+
+msgid "Your Email"
+msgstr "Your Email"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "You are now a subscriber!"
+msgstr "You are now a subscriber!"

@@ -1,0 +1,52 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Donate"
+msgstr "Donera"
+
+msgid "Make a donation"
+msgstr "Ge ett bidrag"
+
+msgid "Here below are your collected subscribers. You can edit them as you want, but remember to separate them with , (comma) and be careful not to delete them all. It can be a good idea to copy them sometimes to a local txt-file on your computer."
+msgstr "Här nedan visas dina insamlade prenumeranter. Du kan redigera dem som du vill, men kom ihåg att separera dem med kommatecken (,) och vara försiktig så att du inte tar bort dem allihop. Det kan vara en bra idé att kopiera dem ibland till en lokal txt-fil på din dator."
+
+msgid "No subscribers yet. Why don't you start by adding yourself to get that number up?"
+msgstr "Inga prenumeranter. Varför inte börja genom att lägga till dig själv för att få upp detta nummer?"
+
+msgid "subscriber"
+msgstr "prenumerant"
+
+msgid "subscribers"
+msgstr "prenumeranter"
+
+msgid "Email addresses separated with comma (,):"
+msgstr "E-postadresser avgränsade med kommatecken (,):"
+
+msgid "Update subscriber list"
+msgstr "Uppdatera prenumeranter"
+
+msgid "Updated"
+msgstr "Uppdaterades"
+
+msgid "Your Email"
+msgstr "Din e-postadress"
+
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+msgid "You are now a subscriber!"
+msgstr "Du är nu prenumerant!"
